@@ -17,6 +17,11 @@ We are in the process of releasing the NaijaXLM-T model finetuned on NaijaHate.
 If you find our work useful, please cite:
 
 ```
-@inproceedings{XXX}
+@article{tonneau2024naijahate,
+  title={NaijaHate: Evaluating Hate Speech Detection on Nigerian Twitter Using Representative Data},
+  author={Tonneau, Manuel and de Castro, Pedro Vitor Quinta and Lasri, Karim and Farouq, Ibrahim and Subramanian, Lakshminarayanan and Orozco-Olvera, Victor and Fraiberger, Samuel},
+  journal={arXiv preprint arXiv:2403.19260},
+  year={2024}
+}
 ```
 
