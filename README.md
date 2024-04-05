@@ -1,6 +1,6 @@
 # Hate Speech Detection on Nigerian Twitter
 
-Data and models for paper: "NaijaHate: Evaluating Hate Speech Detection on Nigerian Twitter Using Representative Data"
+Data and models for paper: ["NaijaHate: Evaluating Hate Speech Detection on Nigerian Twitter Using Representative Data"](https://arxiv.org/abs/2403.19260)
 
 ## Data
 
